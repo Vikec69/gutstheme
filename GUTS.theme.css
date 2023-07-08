@@ -1,0 +1,24 @@
+/**
+ * @name GUTS
+ * @author Tropical#8908, Hammock#3110
+ * @version 3.0.0
+ * @description A cold, dark & frosty theme.
+ * @source https://github.com/DiscordStyles/DarkMatter/
+ * @BDEditor Dark Matter
+*/
+
+@import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
+
+:root {
+  --background-image: url('https://i.pinimg.com/564x/58/30/76/5830761f503b801c5754ef788af52377.jpg');
+  --home-image: url('https://media.discordapp.net/attachments/966405666472353903/1127260847551561768/test.png');
+  --accent: 255,255,255;
+  --accent-alt: 54,54,54;
+  --background-solid: #000000;
+  --background-solid-dark: #000000;
+  --background-solid-darker: #292929;
+}
+
+/* Any custom CSS below here */
+
+
